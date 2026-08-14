@@ -30,3 +30,31 @@ public class deemo {
 
 but if we make the class B static we can remove the obj from the obj1 object it can run.
 but the main class cannot be static that the case
+/***********************************annonymous absract class example*******************************/
+// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
+// then press Enter. You can now see whitespace characters in your code.
+/*--------------------------Abstract aanonymous inner class-------------------------------*/
+abstract class A {
+    public abstract void show();
+    public abstract void config();
+}
+
+
+
+
+public class deemo {
+    public static void main(String[] args) {
+        A obj=new A()
+        {
+          public void show(){
+              System.out.println("In a show");
+          }
+          public void config(){
+              System.out.println("In a config");
+          }
+        };
+        obj.show();
+        obj.config();
+
+    }
+}
