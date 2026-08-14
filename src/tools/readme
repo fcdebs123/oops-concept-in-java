@@ -1,0 +1,12 @@
+  /* Vehicle v1=new Vehicle("Mercedez",1800);
+                                                                            Vehicle v2=new Vehicle("Roll royals",35000);
+                                                                            Car c1=new Car("Fords",2800,5);
+                                                                            Bike b1=new Bike("Honda",2000,false);*/
+                                                                                            /*A obj=new A();
+                                                                            System.out.println(obj.getMarks());
+                                                                            B obj1=new B();
+                                                                            System.out.println(obj1.addmarks());*/
+                                                                            //int sum=obj1.add(3,2);
+                                                                            //stem.out.println(sum);
+
+                                                                            //System.out.println(obj1.marks);
